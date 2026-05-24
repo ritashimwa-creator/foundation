@@ -1,5 +1,5 @@
 #include <iostream>
-// this fstream function provides classes to perform input and output operations on files
+
 #include <fstream>
 #include <string>
 
